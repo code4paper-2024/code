@@ -1,0 +1,302 @@
+[
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:389, sequence:1(15),2(13)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:442, sequence:1(23),2(21)",
+        "output": "2"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:508, sequence:1(12),2(9)",
+        "output": "3"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:98, sequence:1(26),2(8)",
+        "output": "5"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:484, sequence:1(24),2(36)",
+        "output": "2"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:385, sequence:1(2),2(14)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:249, sequence:1(11),2(18)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:61, sequence:1(5),2(4)",
+        "output": "5"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:338, sequence:2(12)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:184, sequence:1(22),2(18)",
+        "output": "4"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:42, sequence:1(25),2(20)",
+        "output": "5"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:124, sequence:1(3),2(8),3(3)",
+        "output": "4"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:77, sequence:1(9),2(7)",
+        "output": "5"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:463, sequence:1(6),2(8)",
+        "output": "2"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:464, sequence:1(4),2(6),3(10)",
+        "output": "2"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:78, sequence:1(9),2(8)",
+        "output": "5"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:58, sequence:1(9),2(12)",
+        "output": "5"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:482, sequence:1(8),2(18)",
+        "output": "2"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:53, sequence:1(10),2(6)",
+        "output": "5"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:242, sequence:1(20),2(12)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:511, sequence:1(21),2(9)",
+        "output": "3"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:109, sequence:1(9),2(26)",
+        "output": "4"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:404, sequence:1(19),2(14)",
+        "output": "2"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:246, sequence:1(19),2(23)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:185, sequence:1(26),2(18)",
+        "output": "4"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:522, sequence:1(15),2(22)",
+        "output": "3"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:503, sequence:1(16),2(30)",
+        "output": "3"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:577, sequence:1(16),2(11)",
+        "output": "3"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:27, sequence:1(27),2(10)",
+        "output": "5"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:46, sequence:1(24),2(20)",
+        "output": "5"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:263, sequence:1(20),2(7)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:576, sequence:1(16),2(11)",
+        "output": "3"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:351, sequence:1(16),2(6)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:332, sequence:1(14),2(10)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:29, sequence:1(17),2(5)",
+        "output": "5"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:540, sequence:1(31),2(18)",
+        "output": "3"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:284, sequence:1(14),2(34)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:176, sequence:1(30),2(18)",
+        "output": "4"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:52, sequence:1(27),2(12)",
+        "output": "5"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:160, sequence:1(6),2(16)",
+        "output": "4"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:460, sequence:1(4),2(12),3(12)",
+        "output": "2"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:268, sequence:1(22),2(11)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:161, sequence:1(6),2(16)",
+        "output": "4"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:517, sequence:1(20),2(30)",
+        "output": "3"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:571, sequence:1(40),2(6)",
+        "output": "3"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:317, sequence:1(14),2(17)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:390, sequence:1(16),2(24)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:509, sequence:1(23),2(18)",
+        "output": "3"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:455, sequence:1(7),2(12)",
+        "output": "2"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:83, sequence:1(8),2(15)",
+        "output": "5"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:450, sequence:1(12),2(14)",
+        "output": "2"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:559, sequence:1(12),2(26)",
+        "output": "3"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:121, sequence:1(20),2(22)",
+        "output": "4"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:33, sequence:1(20),2(19)",
+        "output": "5"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:275, sequence:1(38)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:370, sequence:1(2),2(10)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:104, sequence:1(9),2(23)",
+        "output": "4"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:395, sequence:1(32),2(18)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:118, sequence:1(54),2(42)",
+        "output": "4"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify the given protein as one of the enzyme types. Output a number between 0 and 5.",
+        "input": "protein_id:239, sequence:1(8),2(10)",
+        "output": "0"
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:578, sequence:5(1),0(1),2(1),0(2),2(2),3(1),1(1),0(1),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:42, sequence:2(2),0(1),2(1),0(2),2(2),5(1),2(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1546, sequence:0(2),1(1),0(1),1(1),0(1),1(2),0(2),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1672, sequence:2(1),0(5),1(1),0(2),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1013, sequence:5(1),0(2),2(2),0(1),2(1),1(1),0(2),4(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1277, sequence:0(1),2(1),0(2),2(1),1(1),0(1),2(1),1(1),2(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1293, sequence:2(1),0(1),2(1),0(4),5(2),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1996, sequence:0(2),3(1),0(1),3(1),0(1),1(1),2(2),0(1),2(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:851, sequence:0(1),1(1),0(4),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:442, sequence:0(3),1(1),0(2),1(1),0(1),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1631, sequence:1(2),0(7),1(1),11(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:854, sequence:0(1),1(1),0(4),1(3),0(1),2(1),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:978, sequence:2(1),0(1),2(1),0(1),2(1),0(3),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1158, sequence:0(1),1(1),0(3),2(1),0(1),1(1),2(1),0(1),2(1),0(1),1(1),0(9),1(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:451, sequence:5(1),0(3),1(3),0(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1276, sequence:5(1),0(1),2(2),0(1),2(2),5(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1687, sequence:2(1),0(6),5(1),2(1),0(7),1(2),0(2),3(1),0(5)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:621, sequence:1(1),0(2),2(1),0(2),2(1),0(1),2(1),0(1),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:181, sequence:0(2),1(1),2(2),1(1),0(1),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:652, sequence:1(1),0(5),1(1),2(4),0(1),2(1),0(3),1(2),0(1),9(1),1(1),0(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:649, sequence:0(2),1(1),0(3),2(1),0(1),1(2),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1310, sequence:0(1),1(2),0(6),1(1),0(1),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:908, sequence:1(1),0(1),2(1),0(1),2(1),0(2),1(1),0(2),1(1),0(4),1(1),11(1),2(6)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:33, sequence:0(6),5(1),0(3),5(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1313, sequence:5(1),0(5),2(2),0(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1410, sequence:0(1),2(1),0(1),2(1),0(2),2(1),1(2),8(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:269, sequence:2(1),0(4),2(1),1(1),2(1),1(1),0(1),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:775, sequence:0(3),5(1),1(1),5(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1612, sequence:0(6),1(1),0(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1792, sequence:0(6),2(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1931, sequence:0(5),2(1),0(1),2(1),0(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:413, sequence:0(8),2(1),0(1),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1590, sequence:0(4),1(2),2(2),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:810, sequence:3(1),0(3),5(1),1(2),5(1),0(3),3(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1329, sequence:16(1),1(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:657, sequence:0(1),2(1),0(4),1(1),0(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:92, sequence:0(1),2(1),0(1),2(1),0(2),2(1),1(2),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:74, sequence:0(2),2(1),0(5),1(1),0(1),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:275, sequence:0(3),5(1),0(2),1(1),0(1),2(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1770, sequence:3(1),18(1),3(1),2(2),0(5)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:706, sequence:2(1),0(3),1(1),2(2),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:427, sequence:0(1),2(1),1(1),0(2),1(1),0(3),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1021, sequence:0(2),1(1),0(1),2(1),0(2),2(2),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:124, sequence:0(5),1(1),0(1),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1713, sequence:0(6),2(1),1(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1980, sequence:5(1),2(1),1(2),0(7),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:628, sequence:0(3),7(1),0(2),3(2),1(2),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1233, sequence:1(1),0(2),2(1),5(1),0(2),2(1),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1575, sequence:2(1),0(6),1(2),0(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:206, sequence:0(3),2(1),0(2),1(1),0(1),2(1),0(4),5(1),0(5)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:785, sequence:0(4),1(2),2(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:163, sequence:0(6),2(1),0(1),2(1),0(1),5(1),0(3),4(1),0(4),3(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:702, sequence:0(2),1(1),0(2),4(1),0(1),1(1),2(1),0(1),2(1),0(3),1(1),2(1),4(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1763, sequence:1(1),0(1),2(1),5(1),0(4),3(1),0(3),1(2),0(6)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:982, sequence:0(4),2(1),0(2),2(3),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1028, sequence:0(1),5(1),2(1),0(2),2(1),0(6),2(1),0(6),4(1),0(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1676, sequence:0(1),1(2),0(1),7(1),0(2),1(1),0(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1875, sequence:0(1),2(1),0(5),1(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:834, sequence:0(3),5(1),2(1),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1702, sequence:5(1),0(1),1(2),2(1),0(6),2(2),0(4),2(1),0(1),1(1),0(5)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:817, sequence:0(5),2(1),0(2),1(1),0(1),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:504, sequence:2(1),0(1),2(2),0(5),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1334, sequence:0(1),2(1),0(8),1(1),2(1),5(1),1(3),2(1),0(6),5(1),1(3),0(2),2(1),0(8),1(1),2(1),5(1),1(3),2(1),0(6),5(1),1(3),0(1),8(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1637, sequence:2(1),0(5),2(1),0(1),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1703, sequence:0(3),2(3),0(6)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:359, sequence:0(1),2(1),0(3),2(2),0(1),2(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1472, sequence:2(1),0(1),1(1),0(1),2(2),0(1),1(1),0(3),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:112, sequence:0(3),2(1),0(1),2(1),0(1),1(2),0(1),1(1),0(3),4(1),0(1),1(1),0(1),1(1),0(11),11(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1499, sequence:0(2),2(1),0(2),1(2),2(1),0(2),5(1),0(1),1(1),0(1),1(1),2(2),0(4),1(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1192, sequence:0(9),1(1),3(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:285, sequence:0(3),1(2),5(1),0(2),1(1),2(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1234, sequence:0(2),1(1),2(1),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:687, sequence:0(1),5(1),0(1),1(5)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1784, sequence:0(10),5(1),1(2),2(2),1(1),2(1),5(1),1(3),0(10),5(1),1(2),2(2),1(1),2(1),5(1),1(3),0(12),1(1),0(1),1(1),0(1),8(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1774, sequence:2(1),0(1),2(1),0(3),5(1),1(1),0(2),3(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1574, sequence:1(1),0(2),2(1),0(1),2(1),0(3),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1299, sequence:5(1),1(4),5(2),0(6),2(1),0(2),2(1),0(6),2(4)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1489, sequence:0(2),1(1),2(1),0(1),1(1),2(1),0(3),1(1),0(3),2(1),0(1),1(1),2(2),0(1),1(1),0(10),9(1),0(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:91, sequence:0(8),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1901, sequence:0(2),5(1),0(3),1(3),0(1),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:530, sequence:0(1),2(1),1(1),0(2),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1976, sequence:1(1),0(3),2(2),0(5)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1864, sequence:1(1),2(1),0(3),1(1),0(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1712, sequence:0(1),2(1),5(2),0(2),5(1),0(1),2(1),5(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:517, sequence:0(1),2(1),0(2),5(1),2(1),0(1),1(1),2(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:756, sequence:0(4),2(1),0(1),1(2),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:447, sequence:0(9),2(1),4(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1447, sequence:0(1),1(1),0(3),2(1),0(3),2(1),0(1),1(2),0(1),2(3),0(1),1(1),0(1),1(1),0(10),1(1),0(6),9(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:444, sequence:0(15),5(2),0(1),1(2),0(1),1(2),2(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1135, sequence:1(1),0(2),1(1),2(1),0(3),5(1),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:831, sequence:0(3),2(1),0(1),2(1),0(1),1(2),0(1),1(1),0(3),2(3),0(1),1(1),0(1),1(1),0(17)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1747, sequence:2(1),1(1),0(5),3(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1115, sequence:0(2),2(2),0(1),2(2),5(1),0(1),5(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1707, sequence:0(1),5(1),0(2),1(1),0(5)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1891, sequence:0(3),2(1),1(2),0(3),5(1),1(2),0(6),3(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1585, sequence:0(2),2(1),0(3),5(1),0(2),1(1),0(3),2(2),0(6),1(1),0(7),1(1),0(1),2(2),0(10),1(1),2(1),5(2),1(3),5(1),1(9),8(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1942, sequence:0(3),1(1),0(1),13(1),0(5)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1032, sequence:0(3),2(1),0(1),1(2),0(2),3(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:902, sequence:0(1),2(1),0(3),1(1),0(2),1(1),0(8),2(1),1(1),0(2),5(1),0(6)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:101, sequence:2(1),5(1),0(4),2(1),5(1),0(1),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1274, sequence:0(1),2(1),0(2),2(1),0(5),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1577, sequence:0(1),2(1),0(3),2(2),0(1),2(2),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1405, sequence:2(1),0(7),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:50, sequence:0(6),1(1),0(1),2(1),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:727, sequence:5(1),0(2),2(1),0(4),2(2),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1860, sequence:0(1),5(1),0(1),1(3),0(2),1(1),0(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1270, sequence:0(2),2(1),0(1),2(1),0(1),5(1),0(1),1(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:498, sequence:1(1),0(7),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1400, sequence:17(1),2(1),0(5),2(1),17(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1805, sequence:1(1),0(1),2(1),0(9)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1017, sequence:1(1),0(1),1(1),0(2),5(1),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:871, sequence:0(1),5(2),2(1),1(6),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1806, sequence:2(1),0(3),2(1),0(3),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:431, sequence:0(3),1(1),0(7)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1644, sequence:1(1),0(4),2(1),0(4),1(2),2(1),0(2),2(3),7(1),1(2),0(3),1(2),0(1),2(1),1(1),2(1),0(6)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:751, sequence:1(1),0(2),1(1),0(1),2(1),0(6)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:338, sequence:0(2),5(2),1(6)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:156, sequence:1(1),0(1),2(1),0(6),2(1),0(1),2(1),0(3),5(1),0(1),4(2)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1584, sequence:0(14),2(2),0(6),5(1),1(3),5(1),1(3),2(2),0(6),1(1),5(1),1(3),0(4),1(1),5(1),1(3),0(4),8(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1368, sequence:0(14),1(2),2(2),5(2)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1633, sequence:0(3),1(1),0(2),1(2),0(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1463, sequence:5(1),1(2),0(7),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:242, sequence:0(6),5(1),0(1),1(1),0(6),5(1),1(2),2(2),0(1),1(1),0(2),1(1),0(4),11(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:814, sequence:0(7),1(1),2(1),0(7),1(2),0(3),3(1),1(1),0(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:211, sequence:1(1),0(4),2(1),0(2),2(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:958, sequence:0(2),1(1),0(1),1(1),0(1),1(1),0(5)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:641, sequence:9(1),0(4),2(1),0(1),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:607, sequence:0(7),1(2),0(1),1(1),0(1),3(1),0(11),1(2),0(2),1(1),0(2),3(1),0(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:779, sequence:0(4),2(1),0(1),1(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1771, sequence:0(7),1(1),2(1),0(12),2(1),0(1),1(1),0(6),1(4),5(1),1(3),5(1),1(7),0(4),8(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:84, sequence:2(1),0(5),2(1),0(3),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1131, sequence:0(4),1(1),0(5),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1765, sequence:0(1),1(1),0(2),2(1),1(1),0(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1214, sequence:0(1),2(1),0(2),1(1),0(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:957, sequence:0(1),5(1),0(1),1(3),0(2),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:283, sequence:10(1),2(4),4(1),2(1),9(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1831, sequence:0(3),1(1),0(1),1(1),0(3),2(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:155, sequence:1(1),0(2),1(1),0(7)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:567, sequence:2(1),0(1),2(1),0(1),2(1),0(1),1(1),0(1),2(1),0(1),1(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:735, sequence:0(14),1(1),0(1),1(1),0(5),1(3),0(2),1(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1415, sequence:0(1),2(2),5(1),2(1),0(1),2(1),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:837, sequence:1(1),0(6),2(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1515, sequence:0(2),2(1),0(1),1(1),0(2),2(1),0(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:339, sequence:5(1),0(2),2(1),0(2),5(1),2(1),5(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:122, sequence:0(4),2(1),0(2),5(1),0(2),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:515, sequence:2(1),0(1),2(2),0(1),2(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1935, sequence:5(1),0(3),1(2),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1841, sequence:1(1),0(4),1(2),0(2),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:671, sequence:0(3),2(1),1(2),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1564, sequence:0(14),2(2),0(6),5(2),1(3),5(1),1(3),2(2),0(6),5(1),0(4),5(1),1(3),0(4),5(1),1(9),2(2),8(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1059, sequence:0(1),2(1),0(1),2(1),0(1),5(1),0(3),2(1),0(1),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:410, sequence:3(1),0(2),2(1),3(1),0(2),2(1),3(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1244, sequence:0(7),2(1),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:675, sequence:5(1),0(4),2(1),0(6)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1374, sequence:0(2),2(1),0(4),2(2),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1051, sequence:10(1),2(6),11(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1892, sequence:0(1),2(1),0(1),2(1),0(5),1(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:63, sequence:3(1),12(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1867, sequence:0(1),2(1),0(1),1(1),0(1),2(1),1(1),0(1),1(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1913, sequence:0(7),1(1),2(1),0(1),1(1),2(1),0(3),2(1),0(2),1(1),2(1),0(1),2(1),0(6),2(1),0(3),1(1),2(1),0(4),2(1),0(1),1(1),2(1),0(1),1(1),2(1),0(3),2(2),0(3),2(2),0(3),3(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:979, sequence:0(1),2(1),1(1),0(14),2(1),1(1),2(2),0(9),2(2),0(2)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:304, sequence:2(1),0(5),1(1),0(1),1(3),3(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:151, sequence:0(9),2(1),0(4),2(1),0(11),2(2),1(2),5(1),1(2),5(1),1(2),5(1),1(5),0(6),2(2),5(1),1(3),0(2),8(1),14(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1832, sequence:0(1),2(1),0(1),2(1),0(1),2(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:609, sequence:0(1),5(2),2(1),0(4),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1470, sequence:2(1),0(1),2(1),5(1),0(2),2(1),0(2),5(1),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:691, sequence:0(6),1(1),0(1),2(1),0(2),3(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1319, sequence:0(1),5(1),0(1),2(1),1(2),2(1),1(1),0(1),2(1),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:974, sequence:0(1),5(1),0(3),2(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:347, sequence:0(3),1(1),0(3),2(1),0(2),3(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1424, sequence:0(1),2(3),0(1),2(2),0(1),1(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:686, sequence:0(5),2(1),7(1),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:460, sequence:0(4),13(1),0(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1451, sequence:1(1),0(1),1(2),0(4),5(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1939, sequence:2(1),0(3),5(1),2(1),0(1),2(2),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1248, sequence:1(1),0(1),2(2),0(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1923, sequence:0(2),2(1),3(1),0(1),2(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:897, sequence:17(1),1(3),0(6),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1673, sequence:0(9),2(2),0(1),2(1),1(2)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:150, sequence:5(1),0(6),2(2),0(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:397, sequence:0(1),1(1),0(3),1(1),0(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1539, sequence:0(2),2(1),0(1),2(1),0(1),2(1),4(1),1(1),0(4),1(1),0(1),1(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1265, sequence:0(9),2(1),0(4),2(1),0(1),1(1),2(1),0(6),5(1),1(2),2(1),0(1),2(2),0(6),5(1),1(2),0(3),1(1),2(1),0(1),2(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1701, sequence:5(1),0(1),2(1),0(3),1(1),2(2),0(1),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:255, sequence:0(1),2(1),0(2),5(1),0(1),5(1),0(1),2(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1825, sequence:0(3),23(1),0(2),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:744, sequence:7(1),5(1),0(5),3(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:446, sequence:23(1),1(1),0(2),1(1),3(3),0(2),2(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:576, sequence:0(2),5(2),0(4),1(2),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1681, sequence:0(3),1(1),0(1),2(1),0(1),2(1),0(3),7(1),1(3),0(1),1(1),2(1),0(1),1(1),0(15),1(1)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:490, sequence:0(3),1(1),0(1),2(1),0(4),2(1),1(1),0(1),1(1),7(1),1(3),0(1),1(1),0(1),1(1),0(1),1(1),0(1),1(1),4(1),2(1),0(8)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1550, sequence:0(1),1(2),0(1),2(1),0(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1866, sequence:1(1),0(3),5(1),2(1),0(7),1(2),3(1),0(4),1(1),0(4)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1909, sequence:0(2),2(1),0(2),2(1),0(1),1(1),0(3),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1125, sequence:0(8),1(2),0(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1800, sequence:0(6),16(1),1(1),2(1),1(1)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1056, sequence:1(1),2(1),1(1),2(1),1(1),2(4),1(1),2(1),1(1),2(1),1(1),0(53),2(6),0(3),1(1),0(1),8(1),5(1),1(3),5(1),1(3),5(1),1(3),5(1),1(3)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:97, sequence:5(1),0(4),5(1),0(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1937, sequence:2(1),0(2),2(1),0(1),2(1),0(1),1(1),2(1),0(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a compound ID and its sequence, classify if the given compound is AIDS antiviral or not. Output 1 for antiviral, and 0 for not.",
+        "input": "compound_id:1104, sequence:0(7),5(1),2(1),3(1),0(1),1(1),0(3),2(1),0(5),1(1),0(2)",
+        "output": "0"
+    }
+]

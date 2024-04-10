@@ -1,0 +1,562 @@
+[
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:211, sequence:0(30),1(30)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:984, sequence:0(1),1(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:489, sequence:0(94),1(54)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:120, sequence:0(19),1(6)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:840, sequence:0(57),1(6)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1090, sequence:0(3),1(17),2(18)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:837, sequence:0(1),1(14)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:204, sequence:0(7),1(5)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:307, sequence:0(39),1(49)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:53, sequence:0(120),1(60)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:661, sequence:0(12),1(11)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:514, sequence:0(1),1(5)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1068, sequence:0(4),1(5)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:236, sequence:0(60),1(56)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:609, sequence:0(36),1(22)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:831, sequence:0(4),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:814, sequence:0(25),1(10)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:48, sequence:0(6),1(13)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:529, sequence:0(11),1(5)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:323, sequence:0(5),1(7)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:373, sequence:0(8),1(7)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:931, sequence:0(3),1(4)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:516, sequence:0(21),1(15)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1060, sequence:0(10),1(14)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:104, sequence:0(2),1(22)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:435, sequence:0(10),1(11)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:958, sequence:0(3),1(9),2(8)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:357, sequence:0(22),1(20)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:851, sequence:0(10),1(10)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:964, sequence:0(10),1(16)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1020, sequence:1(11)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:61, sequence:0(12),1(8)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:761, sequence:0(42),1(108)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:562, sequence:0(16),1(8)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1070, sequence:0(8)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:127, sequence:0(10),1(9)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:991, sequence:0(11),1(36)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:849, sequence:0(11),1(9)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:589, sequence:0(66),1(8)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:42, sequence:0(11),1(4)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:132, sequence:0(5),1(11)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:675, sequence:0(5),1(5)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:55, sequence:0(13),1(7)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:108, sequence:0(52),1(28)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:719, sequence:0(3),1(7)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:443, sequence:0(7),1(5)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:260, sequence:0(16),1(12)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:328, sequence:0(32),1(30)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:64, sequence:0(56),1(66)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:693, sequence:0(8)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:350, sequence:0(12),1(12)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:535, sequence:0(15),1(9)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:862, sequence:1(7),2(3)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:399, sequence:0(41),1(33)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1109, sequence:0(3),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:32, sequence:0(16)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1091, sequence:0(4),1(17)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:919, sequence:0(7),1(6)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:921, sequence:0(6)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:973, sequence:1(6)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:551, sequence:0(5),1(6)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:397, sequence:0(2),1(5)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1095, sequence:0(5),1(13)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1092, sequence:0(10)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:842, sequence:0(14),1(13)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:40, sequence:0(81),1(8)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1061, sequence:0(3),1(21)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:171, sequence:0(1),1(10),2(8)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:343, sequence:0(4),1(14)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:474, sequence:0(10),1(10)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:549, sequence:0(7),1(15)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:264, sequence:0(20),1(28)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:342, sequence:0(6),1(10)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:613, sequence:0(19),1(36)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:290, sequence:0(8),1(6)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:305, sequence:0(25),1(54)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:139, sequence:0(27),1(42)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:581, sequence:0(15),1(12)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:251, sequence:0(14),1(18)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:228, sequence:0(72),1(80)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:747, sequence:0(15),1(31)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:914, sequence:0(7),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:407, sequence:0(3),1(13)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:173, sequence:0(12),1(9)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:721, sequence:0(10)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:860, sequence:0(12),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1077, sequence:0(2),1(13),2(7)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:310, sequence:0(59),1(94)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:423, sequence:0(40),1(44)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:812, sequence:0(3),1(21)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:700, sequence:0(10),1(10)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:216, sequence:0(18),1(18)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:896, sequence:0(3),1(2)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:689, sequence:0(6),1(12)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:193, sequence:0(16),1(15)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:47, sequence:0(54),1(18)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:884, sequence:0(5),1(12)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:221, sequence:0(7),1(11)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:585, sequence:0(6),1(24)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:911, sequence:0(8)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:833, sequence:0(34),1(36)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:777, sequence:0(9),1(6)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:572, sequence:0(13),1(17)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:153, sequence:0(18),1(12)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:369, sequence:0(16),1(11)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:491, sequence:0(25),1(16)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1101, sequence:0(5),1(31)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1003, sequence:1(5)",
+        "output": "1"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:272, sequence:0(30),1(6)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:6, sequence:0(178),1(158)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:175, sequence:0(60),1(20)",
+        "output": "0"
+    },
+    {
+        "instruction": "Given a protein ID and its sequence, classify if the given protein is a enzyme or not. Output 1 for enzyme, and 0 for not.",
+        "input": "protein_id:1106, sequence:0(6)",
+        "output": "1"
+    }
+]
